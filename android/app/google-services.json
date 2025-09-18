@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1069747703790",
+    "project_id": "chat-app-e5f75",
+    "storage_bucket": "chat-app-e5f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069747703790:android:2bbe664bf4ae34a8b8c8ff",
+        "android_client_info": {
+          "package_name": "com.example.nishtha_saraswat_answersai_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069747703790-ovs7scmh2i507ra54cofnlglml86cobi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM0fpraIOmnMWcKByqGPtDwXm_0ZMERw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069747703790-ovs7scmh2i507ra54cofnlglml86cobi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069747703790-76gdsdm4k4hdtuubieco8hbqr410k1t7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nishthaSaraswatAnswersaiFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
